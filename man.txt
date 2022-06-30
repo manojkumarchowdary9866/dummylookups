@@ -1,0 +1,1 @@
+{"name": "manoj", "age": 24, "mobile": [1025, 96385], "male": true, "femal": false, "gf": null}

@@ -1,0 +1,1 @@
+Some of The Most Important SQL Commands/nSELECT - extracts data from a databas /nUPDATE - updates d/n
